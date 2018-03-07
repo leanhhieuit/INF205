@@ -19,7 +19,7 @@
                 <div class="carousel-inner">
 
                     <div class="item active">
-                        <img src="img/somi.jpg" alt="Los Angeles" style="width:100%;">
+                        <img src="img/1.jpg" alt="Los Angeles" style="width:100%;">
                         <div class="carousel-caption">
                             <h3>Áo sơ mi</h3>
                             <p>Phong cách thời thượng</p>
@@ -27,7 +27,7 @@
                     </div>
 
                     <div class="item">
-                        <img src="img/thun.jpg" alt="Chicago" style="width:100%;">
+                        <img src="img/2.jpg" alt="Chicago" style="width:100%;">
                         <div class="carousel-caption">
                             <h3>Váy</h3>
                             <p>Giản dị thoải mái</p>
@@ -35,7 +35,7 @@
                     </div>
 
                     <div class="item">
-                        <img src="img/jean.jpg" alt="New York" style="width:100%;">
+                        <img src="img/3.jpg" alt="New York" style="width:100%;">
                         <div class="carousel-caption">
                             <h3>Quần jean</h3>
                             <p>Tuổi trẻ phá cách</p>
